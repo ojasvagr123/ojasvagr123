@@ -28,5 +28,6 @@
 
 ### 📈 My GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ojasvagr123&theme=rogue)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojasvagr123&theme=tokyo-night)
+
 
