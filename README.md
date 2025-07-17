@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasvagr123&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvagr123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojasvagr123" alt="ojasvagr123" /></a> </p>
-
 - 🔭 I’m currently working on [StudiFy](https://github.com/ojasvagr123/Student-Study-Portal)
 
 - 🌱 I’m currently learning **Machine Learning**
