@@ -25,9 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvagr123&show_icons=true&locale=en&layout=compact" alt="ojasvagr123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojasvagr123&show_icons=true&locale=en" alt="ojasvagr123" /></p>
-
-### 📈 My GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojasvagr123&theme=tokyo-night)
-
-
